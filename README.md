@@ -4,6 +4,8 @@
 Check out `DNID Data Story.ipynb`!
 
 ## About the Project
+![Gif of the Avengers](https://i.pinimg.com/originals/e7/10/e5/e710e5a09786a22c5f8cb0c8f30d5e9a.gif)  
+
 Since its inception in 2008, the Marvel Cinematic Universe has become one of the largest movie franchises in the world, garnering a huge fan base and building an incredibly complex world throughout a single, cohesive narrative. My data story aims to capture how the MCU has changed over time from its first phase to its most recently completed phase: Phase Three. I use several datasets from [Kaggle](https://www.kaggle.com/) as specified below:
 * [movies_metadata.csv](https://www.kaggle.com/rounakbanik/the-movies-dataset): "Contains information on 45,000 movies featured in the Full MovieLens dataset. Features include posters, backdrops, budget, revenue, release dates, languages, production countries and companies."
 * [credits.csv](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=credits.csv): "Consists of Cast and Crew Information for all our movies. Available in the form of a stringified JSON Object."
@@ -27,4 +29,7 @@ Download `DNID Data Story.ipynb` and a [zip file](https://drive.google.com/file/
 * Pandas
 * Seaborn
 * Networkx
-* WordCloud
+* WordCloud  
+  
+![Gif of Captain America saying Avengers Assemble](https://c.tenor.com/YHDk9U9pUQQAAAAC/avengers-assemble-ready.gif)
+
